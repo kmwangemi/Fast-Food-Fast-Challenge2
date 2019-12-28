@@ -22,6 +22,7 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+*.pyc
 MANIFEST
 
 # Unit test / coverage reports
@@ -50,6 +51,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.gitignore
 
 
 
