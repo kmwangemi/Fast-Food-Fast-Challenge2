@@ -1,7 +1,7 @@
 """The order endpoints test"""
 from unittest import TestCase
 import json
-from instance.config import app_config
+#from instance.config import app_config
 from app import create_app
 from app.api.v1.views.order_view import Order
 
